@@ -1,4 +1,4 @@
-<img width="631" height="313" alt="image" src="https://github.com/user-attachments/assets/6cfa3047-6710-42dd-ad25-3f513fb703a3" /># 🏥 Hospital Readmission Predictor
+# 🏥 Hospital Readmission Predictor
 
 A web-based application that predicts whether a patient is at high or low risk of being readmitted to a hospital based on their clinical and demographic information.
 
